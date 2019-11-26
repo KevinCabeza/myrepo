@@ -1,0 +1,6 @@
+2019/11/26-12:46:22.938 dc8 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/11/26-12:46:22.943 dc8 Recovering log #38
+2019/11/26-12:46:22.947 dc8 Reusing old log leveldb/000038.log 
+2019/11/26-13:16:25.557 fdc Level-0 table #43: started
+2019/11/26-13:16:25.562 fdc Level-0 table #43: 13820 bytes OK
+2019/11/26-13:16:25.565 fdc Delete type=0 #38

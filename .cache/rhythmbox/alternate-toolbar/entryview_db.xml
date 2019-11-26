@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='us-ascii'?>
+<root>
+  <pages>
+    <page name="RBLibrarySource">'Pista','T&#237;tulo','G&#233;nero','Artista','&#193;lbum','Compositor','A&#241;o','Duraci&#243;n','Calidad','N&#250;mero de reproducciones','PPM','Comentario','Situaci&#243;n','Evaluaci&#243;n','&#218;ltima reproducci&#243;n','Fecha de adici&#243;n'</page>
+    <RBLibrarySource column="Pista" width="43" />
+    <RBLibrarySource column="T&#237;tulo" width="154" />
+    <RBLibrarySource column="G&#233;nero" width="164" />
+    <RBLibrarySource column="Artista" width="162" />
+    <RBLibrarySource column="&#193;lbum" width="162" />
+    <RBLibrarySource column="Compositor" width="0" />
+    <RBLibrarySource column="A&#241;o" width="0" />
+    <RBLibrarySource column="Duraci&#243;n" width="96" />
+    <RBLibrarySource column="Calidad" width="0" />
+    <RBLibrarySource column="N&#250;merodereproducciones" width="0" />
+    <RBLibrarySource column="PPM" width="0" />
+    <RBLibrarySource column="Comentario" width="0" />
+    <RBLibrarySource column="Situaci&#243;n" width="0" />
+    <RBLibrarySource column="Evaluaci&#243;n" width="0" />
+    <RBLibrarySource column="&#218;ltimareproducci&#243;n" width="0" />
+    <RBLibrarySource column="Fechadeadici&#243;n" width="0" />
+  </pages>
+  <database>1</database>
+</root>

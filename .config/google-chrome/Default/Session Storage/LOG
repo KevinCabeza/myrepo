@@ -1,0 +1,6 @@
+2019/11/26-12:46:22.581 d74 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/11/26-12:46:22.585 d74 Recovering log #52
+2019/11/26-12:46:22.589 d74 Reusing old log Session Storage/000052.log 
+2019/11/26-13:10:00.198 fea Level-0 table #56: started
+2019/11/26-13:10:00.205 fea Level-0 table #56: 20585 bytes OK
+2019/11/26-13:10:00.209 fea Delete type=0 #52

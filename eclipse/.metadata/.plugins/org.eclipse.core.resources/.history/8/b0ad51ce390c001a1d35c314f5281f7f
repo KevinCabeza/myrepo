@@ -1,0 +1,9 @@
+package interfaz;
+
+public class interfazGeometrica {
+
+	public interfazGeometrica() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

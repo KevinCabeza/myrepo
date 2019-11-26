@@ -1,0 +1,9 @@
+package interfaz;
+
+public class Geometrica {
+
+	public Geometrica() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

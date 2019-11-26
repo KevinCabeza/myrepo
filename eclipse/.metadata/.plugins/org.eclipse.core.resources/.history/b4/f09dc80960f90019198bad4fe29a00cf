@@ -1,0 +1,460 @@
+// EJER DE PEDIR NOMBRE Y MOSTRARLO
+/*    
+
+package estructurasdecontrol; 
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("Escriba un numero: ");
+		int numero = entrada.nextInt();
+		System.out.println(numero);
+		
+		
+	}
+
+}
+
+*/
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+//CALCULA TU EDAD EL PROXIMO AÑO 
+/*
+package estructurasdecontrol; 
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	public static void main(String [] args) {
+	
+public class AprendiendoJava1{
+	Scanner entrada = new Scanner(System.in);
+	System.out.println("escribe tu edad: ");
+	int edad = entrada.nextInt();
+	int edad = edad + 1;
+	System.out.println("su edad el prox año sera: " + edad);
+
+
+	}
+	
+}
+*/
+
+///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
+// CALCULA TU EDAD EN BASE AL NACIMIENTO Y AÑO ACTUAL
+/*
+package estructurasdecontrol; 
+import java.util.Scanner;
+public class AprendiendoJava1 {
+	public static void main(String [] args) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("escriba el año actual: ");
+		int añoActual = entrada.nextInt();
+		System.out.println("escriba su año de nacimiento: ");
+		int añoNacimiento = entrada.nextInt();
+		int edad;
+		
+		edad = añoActual - añoNacimiento;
+		System.out.println("su edad es: " + edad + "años");
+		
+	}
+}
+*/
+
+/////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+// COMPRUEBA EL RANGO DE VALORES DE LA VARIABLE TIPO SHORT
+/*
+package estructurasdecontrol; 
+
+public class AprendiendoJava1 {
+	public static void main(String args[]) {
+		short num;
+		num = 32767;
+		System.out.println("valor maximo para el tipo short:" + num);
+		num++;
+		System.out.println("valor minimo para el tipo short:" + num);
+	}
+}
+*/
+
+//////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
+// HACE LA MEDIA DE DOS NOTAS
+/*
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("primera nota: ");
+		double nota1 = entrada.nextDouble();
+		System.out.println("segunda nota: ");
+		double nota2 = entrada.nextDouble();
+		double media ;
+		 media = (nota1 + nota2) / 2.0;
+		 System.out.println("la nota media es: " + media);
+		
+	}
+}
+*/
+
+/////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////
+//CALCULAMOS LA MEDIA ENTERA DE 3 NOTAS
+/*
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("primera nota: ");
+		int nota1 = entrada.nextInt();
+		System.out.println("segunda nota: ");
+		int nota2 = entrada.nextInt();
+		System.out.println("tercera nota: ");
+		int nota3 = entrada.nextInt();
+		int media ;
+		 media = (int) ((nota1 + nota2 + nota3) / 2.0);
+		 System.out.println("la nota media es: " + media);
+	}
+}
+*/
+
+/////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////
+//MUESTRA EN PANTALLA EL NUMERO DECIMAL ESCRITO REDONDEADO A UN NUMERO ENTERO 
+/*
+package estructurasdecontrol;
+import java.util.Locale;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		entrada.useLocale(Locale.US);
+		System.out.println("escribe un numero decimal(con punto)");
+		double num = entrada.nextDouble();
+		float truncado = (float) 0.5;
+		int redondeo;
+	
+		redondeo = (int) (num + 0.5);
+		System.out.println(num + " redondeado es: " + redondeo);
+	}
+}
+*/
+
+//////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////
+//CALCULAR LA VENTA ANUAL DE FRUTAS CON PRECIO ESTABLECICO
+/*
+
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("escribe los kilos de los 4 trimestres de manzanas: ");
+		double manzana1 = entrada.nextDouble();
+		double manzana2 = entrada.nextDouble();
+		double manzana3 = entrada.nextDouble();
+		double manzana4 = entrada.nextDouble();
+		System.out.println("escribe los kilos de los 4 trimestres de peras: ");
+		double pera1 = entrada.nextDouble();
+		double pera2 = entrada.nextDouble();
+		double pera3 = entrada.nextDouble();
+		double pera4 = entrada.nextDouble();
+		double finalManzana = (manzana1 + manzana2 + manzana3 + manzana4) * 2.35;
+		System.out.println("se gano con las manzanas: " + finalManzana + " euros");
+		double finalPera = (pera1 + pera2 + pera3 + pera4) *1.95;
+		System.out.println("se gano con las peras: " + finalPera + " euros");
+		double ganancias = finalManzana + finalPera;
+		System.out.println("las ganacias anales son de: " + ganancias + " euros");
+		
+		
+	}
+}	
+*/
+		
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+// CALCULAMOS LAS GANANCIAS ANUALES, ESCRIBIENDO NOSOTROS EL PRECIO DEL KILO
+
+/*
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("escribe los kilos de los 4 trimestres de manzanas: ");
+		double manzana1 = entrada.nextDouble();
+		double manzana2 = entrada.nextDouble();
+		double manzana3 = entrada.nextDouble();
+		double manzana4 = entrada.nextDouble();
+		System.out.println("con que importe se vendera el kilo: ");
+		float precioP = entrada.nextFloat();
+		System.out.println("escribe los kilos de los 4 trimestres de peras: ");
+		double pera1 = entrada.nextDouble();
+		double pera2 = entrada.nextDouble();
+		double pera3 = entrada.nextDouble();
+		double pera4 = entrada.nextDouble();
+		System.out.println("con que importe se vendera el kilo: ");
+		float precioM = entrada.nextFloat();
+		double finalManzana = (manzana1 + manzana2 + manzana3 + manzana4) * precioM;
+		System.out.println("se gano con las manzanas: " + finalManzana + " euros");
+		double finalPera = (pera1 + pera2 + pera3 + pera4) * precioP;
+		System.out.println("se gano con las peras: " + finalPera + " euros");
+		double ganancias = finalManzana + finalPera;
+		System.out.println("las ganacias anales son de: " + ganancias + " euros");
+		
+		
+	}
+}	
+*/
+
+/////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////
+/*   // AREA Y LONGITUD DE UNA CIRCUNFERENCIA 
+
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("introduce el radio");
+		int radio = entrada.nextInt();
+		double longitud = (2*3.14) * radio;
+		double area = 3.14 * (radio * radio);
+		System.out.println("la longitud de la circunfencia es de:  " + longitud);
+		System.out.println("el area de la circunfencia es de: " + area);
+		
+	
+	}
+}
+*/
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+//NUMERO PAR O IMPAR
+
+/*
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("escribe un numero: ");
+		int num = entrada.nextInt();
+		if (num % 2 == 0) {
+			System.out.println("el numero " + num + " es par");
+		} else {
+			System.out.println("el numero " + num + " es impar");
+		}	
+	}
+}
+*/
+
+/////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////
+// COMPROBAR SI DOS NUMERO ENTEROS SON IGUALES
+
+/*
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+	Scanner entrada = new Scanner(System.in);
+	System.out.println("escribe un numero entero: ");
+	int num1 = entrada.nextInt();
+	System.out.println("escribe otro numero entero: ");
+	int num2 = entrada.nextInt();
+	if (num1 == num2) {
+		System.out.println("los numero son iguales");
+	}else {
+		System.out.println("no son iguales");
+	}
+		
+	}
+}
+*/		
+
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+// IMPRIMA EN PANTALLA EL NUMERO ESCRITO QUE SEA MAYOR, SIN SON IGUALES TAMBIEN LO DICE 
+/*
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("escribe un numero entero: ");
+		int num1 = entrada.nextInt();
+		System.out.println("escribe un numero entero: ");
+		int num2 = entrada.nextInt();
+		if (num1 == num2) {
+			System.out.println("son iguales");
+		}else {
+			if (num1 < num2) {
+				System.out.println("el numero mayor es: " + num2);
+			}else {
+				System.out.println("el numero mayor es: " + num1);
+			}
+		}
+	}
+}
+*/
+
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+// ESCRIBIMOS UN NUMERO DECIMAL Y COMPROBAMOS SIN ESTA CERCA DE CASI SER CERO
+/*
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("escribe un numero decimal: ");
+		float num = entrada.nextFloat();
+		if( num > -1 && num < 1 && num != 0) {
+			System.out.println("es casi cero");
+		}else {
+			System.out.println("no es casi cero");
+		}
+	}
+}		
+*/		
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+// ESCRIBIMOS 3 NUMEROS ENTEROS Y IMPRIMOS POR PANTALLA SU ORDEN DE MAYOR A MENOR
+
+/*
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("escribe 3 numeros enteros diferentes");
+		int num1 = entrada.nextInt();
+		int num2 = entrada.nextInt();
+		int num3 = entrada.nextInt();
+		if (num1 > num2 && num2 > num3) {
+			System.out.println(num1 + "," + num2 + "," + num3);
+		}else if (num1 > num3 && num3 > num2) {
+			System.out.println(num1 + "," + num3 + "," + num2);
+		}else if (num2 > num3 && num3 > num1) {
+			System.out.println(num2 + "," + num3 + "," + num1);
+		}else if (num2 > num1 && num1 > num3) {
+			System.out.println(num2 + "," + num1 + "," + num3);
+		}else if ( num3 > num2 && num2 > num1) {
+			System.out.println(num3 + "," + num2 + "," + num1);
+		}else {
+			System.out.println(num3 + "," + num1 + "," + num2);
+		}
+		
+		
+	}
+}
+*/
+
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+/*
+
+package estructurasdecontrol;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("escribe numeros para a, b, c");
+		double a = entrada.nextDouble();
+		double b = entrada.nextDouble();
+		double c = entrada.nextDouble();
+		double d;
+		double e;
+		package estructurasdecontrol;
+
+		public class TrianguloPitagorico {
+
+			public static void main(String [] args){
+				for(int i=1;i <=10 ; i++)
+				{
+					for (int j = 1; j<=10; j++)
+					{
+					System.out.print((i*j) + "\t");
+		     }
+		}
+			}
+		}		double f;
+		
+		
+		if (a == 0 && b == 0) {
+			System.out.println("ERROR ES UNA ECUACION DE PRIMER GRADO");
+		}else if ( a == 0) {
+			System.out.println("a no puede ser 0");
+		}else {
+			d = (b * b - 4 * a * c);
+			e = (-b + Math.sqrt(d)) / (2*a);
+			System.out.println("solucion 1: " + e);
+			f = (-b - Math.sqrt(d)) / (2*a);
+			System.out.println("solucion 2: " + f);
+		}
+	}
+}
+*/
+
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+//triangulo pitagorico
+
+package estructurasdecontrol;
+import java.io.IOException;
+import java.util.Scanner;
+
+public class AprendiendoJava1 {
+	
+	public static void main(String args[]) throws IOException {
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("escribe una letra: ");
+		char car = (char)System.in.read();
+		System.out.println("escribe una altura: ");
+		int altura = entrada.nextInt();
+		
+		for (int linea = 1; linea <= altura; linea++) 
+		{
+			for (int contacar = 1; contacar <= car; contacar++)
+			{
+				System.out.println(contacar);
+			}
+				
+			
+		}
+		
+	}
+}
+
+
+
+

@@ -1,0 +1,5 @@
+library=
+name=NSS Internal PKCS #11 Module
+parameters=configdir='sql:/home/alumno/.thunderbird/wpkjiv7w.default' certPrefix='' keyPrefix='' secmod='secmod.db' flags=optimizeSpace updatedir='' updateCertPrefix='' updateKeyPrefix='' updateid='' updateTokenDescription=''  manufacturerID='Mozilla.org' libraryDescription='Serv. criptografía interna PSM' cryptoTokenDescription='Serv. criptografía genéricos' dbTokenDescription='Disp. software de seguridad' cryptoSlotDescription='Servicios de cifrado interno PSM' dbSlotDescription='Claves privadas del PSM' FIPSSlotDescription='Serv. FIPS 140 criptogr., de clave y cert.' FIPSTokenDescription='Disp. seguridad software (FIPS)' minPS=0
+NSS=trustOrder=75 cipherOrder=100 slotParams={0x00000001=[slotFlags=RSA,RC4,RC2,DES,DH,SHA1,MD5,MD2,SSL,TLS,AES,SHA256,SHA512,Camellia,SEED,RANDOM askpw=any timeout=30 ] }  Flags=internal,critical
+

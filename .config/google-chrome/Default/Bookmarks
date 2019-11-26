@@ -1,0 +1,36 @@
+{
+   "checksum": "b4b825433e4af19f75dcd738bf56f8aa",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13218542597941488",
+            "id": "5",
+            "name": "5. Funciones",
+            "type": "url",
+            "url": "https://aulavirtual33.educa.madrid.org/ies.goya.madrid/pluginfile.php/10985/mod_resource/content/1/Tema5_funciones.pdf"
+         } ],
+         "date_added": "13215869505722069",
+         "date_modified": "13218542597941488",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13215869505722073",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13215869505722073",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

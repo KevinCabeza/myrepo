@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="121.5" last-seen="1574773549"/>
+    <application id="firefox.desktop" open-window-count="0" score="21408.84375" last-seen="1574686155"/>
+    <application id="nautilus.desktop" open-window-count="1" score="0" last-seen="1574771595"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="505" last-seen="1574773490"/>
+    <application id="brackets_brackets.desktop" open-window-count="0" score="1200" last-seen="1574426180"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1574237003"/>
+    <application id="eog.desktop" open-window-count="0" score="134" last-seen="1574771977"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="7031" last-seen="1574773576"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="1" score="1883.5" last-seen="1574773592"/>
+    <application id="nautilus-folder-handler.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1379" last-seen="1574773591"/>
+    <application id="pycharm-community_pycharm-community.desktop" open-window-count="0" score="11819.25" last-seen="1574064980"/>
+    <application id="apport-gtk.desktop" open-window-count="0" score="0" last-seen="1574678980"/>
+    <application id="libreoffice-impress.desktop" open-window-count="0" score="1" last-seen="1574337319"/>
+    <application id="eclipse_eclipse.desktop" open-window-count="1" score="6676.5" last-seen="1574773572"/>
+  </context>
+</application-state>

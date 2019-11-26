@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_alumno0/Pr%C3%A1ctica%201.doc" added="2019-09-24T07:44:29Z" modified="2019-10-03T11:06:50Z" visited="2019-09-24T07:44:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-03T11:06:50Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/palindromo.java" added="2019-10-03T08:33:47Z" modified="2019-10-03T08:33:47Z" visited="2019-10-03T08:33:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-03T08:33:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/Practica1.odt" added="2019-10-03T08:50:58Z" modified="2019-10-03T08:51:13Z" visited="2019-10-03T08:50:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-03T08:51:13Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/fol" added="2019-10-08T10:32:48Z" modified="2019-10-08T10:32:48Z" visited="2019-10-08T10:32:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-08T10:32:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/fol.odt" added="2019-10-08T10:32:49Z" modified="2019-10-10T10:10:49Z" visited="2019-10-08T10:32:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T10:10:49Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/UUI/Los%20ideales%20del%20creador%20de%20Ruby.docx" added="2019-10-09T07:49:49Z" modified="2019-10-09T08:15:04Z" visited="2019-10-09T07:49:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-09T08:15:04Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/UUI/semantica%20trabajo" added="2019-10-09T08:05:44Z" modified="2019-10-09T08:05:44Z" visited="2019-10-09T08:05:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-09T08:05:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/UUI/semantica%20trabajo.odt" added="2019-10-09T08:05:45Z" modified="2019-10-09T08:45:11Z" visited="2019-10-09T08:05:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-09T08:45:11Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Descargas/ruby.jpeg" added="2019-10-09T08:07:20Z" modified="2019-10-09T08:07:20Z" visited="2019-10-09T08:07:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-10-09T08:07:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/UUI/Los%20ideales%20del%20creador%20de%20Ruby" added="2019-10-09T08:15:04Z" modified="2019-10-09T08:15:04Z" visited="2019-10-09T08:15:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-09T08:15:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/P02-10_Instrucciones.txt" added="2019-10-10T08:30:44Z" modified="2019-10-24T10:34:17Z" visited="2019-10-10T08:30:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-24T10:34:17Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-32JOuv/captura-resultado.png" added="2019-10-10T08:41:04Z" modified="2019-10-10T08:41:04Z" visited="2019-10-10T08:41:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-10-10T08:41:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-6A2R3Z/ejercicio-wikipedia-beta.css" added="2019-10-10T08:41:09Z" modified="2019-10-10T08:41:09Z" visited="2019-10-10T08:41:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-10T08:41:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-43RMyD/captura-wikipedia.png" added="2019-10-10T08:41:12Z" modified="2019-10-10T08:41:12Z" visited="2019-10-10T08:41:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-10-10T08:41:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-gH870v/OED-LEXX-Bungler.jpg" added="2019-10-10T08:41:16Z" modified="2019-10-10T08:41:16Z" visited="2019-10-10T08:41:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-10-10T08:41:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-uJwP0O/enunciado/captura-resultado.png" added="2019-10-10T08:41:24Z" modified="2019-10-10T08:41:24Z" visited="2019-10-10T08:41:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-10-10T08:41:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/P02-10_Instrucciones-1.txt" added="2019-10-10T08:43:55Z" modified="2019-10-10T08:43:55Z" visited="2019-10-10T08:43:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-10T08:43:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/kevin%20practica%20numero%205.docx" added="2019-10-10T09:56:44Z" modified="2019-10-10T10:10:10Z" visited="2019-10-10T09:56:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T10:01:26Z" count="5"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-10-10T10:10:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/kevin%20practica%20numero%205" added="2019-10-10T09:56:56Z" modified="2019-10-10T09:56:56Z" visited="2019-10-10T09:56:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T09:56:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/kevin%20practica%20numero%205%20odf" added="2019-10-10T09:57:25Z" modified="2019-10-10T09:57:25Z" visited="2019-10-10T09:57:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T09:57:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/kevin%20practica%20numero%205%20odf.odt" added="2019-10-10T09:57:26Z" modified="2019-10-10T09:59:58Z" visited="2019-10-10T09:57:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T09:59:14Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/.~lock.kevin%20practica%20numero%205%20odf.odt%23" added="2019-10-10T09:57:39Z" modified="2019-10-10T09:57:39Z" visited="2019-10-10T09:57:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-10T09:57:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/kevin%20practica%20numero%205.pdf" added="2019-10-10T09:58:53Z" modified="2019-10-10T09:58:53Z" visited="2019-10-10T09:58:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T09:58:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/p5" added="2019-10-10T10:12:16Z" modified="2019-10-10T10:12:16Z" visited="2019-10-10T10:12:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T10:12:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/p5.odt" added="2019-10-10T10:12:17Z" modified="2019-10-10T12:19:34Z" visited="2019-10-10T10:12:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T12:19:34Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-10-10T10:12:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/kevin%20practica%20numero%205.pdf.odt" added="2019-10-10T10:22:17Z" modified="2019-11-12T09:10:18Z" visited="2019-10-10T10:22:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-12T09:10:10Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/Pra%CC%81ctica%201%20Gestio%CC%81n%20de%20Procesos.xlsx" added="2019-10-10T10:44:23Z" modified="2019-11-07T11:36:25Z" visited="2019-10-10T10:44:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-07T11:36:25Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/Pra%CC%81ctica%201%20Gestio%CC%81n%20de%20Procesos-1.xlsx" added="2019-10-10T11:45:04Z" modified="2019-10-10T12:18:52Z" visited="2019-10-10T11:45:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T12:18:52Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/Pra%CC%81ctica%201%20Gestio%CC%81n%20de%20Procesos-1" added="2019-10-10T12:18:47Z" modified="2019-10-10T12:18:47Z" visited="2019-10-10T12:18:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T12:18:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/Pra%CC%81ctica%201%20Gestio%CC%81n%20de%20Procesos-1.xlsx" added="2019-10-10T12:18:52Z" modified="2019-10-10T12:19:31Z" visited="2019-10-10T12:18:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-10T12:19:31Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Descargas/call%20of%20duty" added="2019-10-18T10:44:56Z" modified="2019-10-18T10:44:56Z" visited="2019-10-18T10:44:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-18T10:44:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Descargas/google-chrome-stable_current_amd64.deb" added="2019-10-18T10:50:52Z" modified="2019-10-18T10:50:52Z" visited="2019-10-18T10:50:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-10-18T10:50:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:////snap/brackets/112/opt/brackets/samples/es/Primeros%20Pasos/tabla.html" added="2019-10-24T10:31:08Z" modified="2019-10-24T10:31:25Z" visited="2019-10-24T10:31:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-24T10:31:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/tabla.html" added="2019-10-24T10:32:11Z" modified="2019-10-24T10:32:11Z" visited="2019-10-24T10:32:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-24T10:32:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/tabla.css" added="2019-10-24T10:50:37Z" modified="2019-10-24T10:50:37Z" visited="2019-10-24T10:50:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-24T10:50:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/entornos/CLASIFICACIONES%20DE%20LENGUAJES%20DE%20PROGRAMACI%C3%93N.odt" added="2019-10-24T10:51:26Z" modified="2019-10-25T10:01:56Z" visited="2019-10-24T10:51:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-10-24T10:51:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Escritorio/Tabla%20Superliga%20Masculina%20Volleyball_files/Tabla%20Superliga%20Masculina%20Volleyball.html" added="2019-10-24T11:30:09Z" modified="2019-10-24T11:31:52Z" visited="2019-10-24T11:30:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-24T11:30:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/marcas/tabla.css" added="2019-10-24T11:30:39Z" modified="2019-10-25T10:12:23Z" visited="2019-10-24T11:30:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-24T11:30:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/marcas/tabla.html" added="2019-10-24T11:31:01Z" modified="2019-10-25T10:12:23Z" visited="2019-10-24T11:31:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-24T11:31:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-JYdzv6/UT2-HTML.pdf" added="2019-10-25T07:08:41Z" modified="2019-10-25T07:08:41Z" visited="2019-10-25T07:08:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2019-10-25T07:08:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/entornos/Captura%20ENTORNOS.PNG" added="2019-10-25T08:47:33Z" modified="2019-10-25T10:01:56Z" visited="2019-10-25T08:47:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-10-25T08:47:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/marcas/main2" added="2019-10-25T10:05:30Z" modified="2019-10-25T10:12:23Z" visited="2019-10-25T10:05:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-25T10:06:43Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/marcas/main.css" added="2019-10-25T10:05:39Z" modified="2019-10-25T10:12:23Z" visited="2019-10-25T10:05:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-25T10:05:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Escritorio/marcas/tabla.css" added="2019-10-25T10:07:24Z" modified="2019-10-25T10:07:24Z" visited="2019-10-25T10:07:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/brackets_brackets.desktop /snap/bin/brackets %U&apos;" modified="2019-10-25T10:07:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Escritorio/marcas.zip" added="2019-10-25T10:10:54Z" modified="2019-10-25T10:10:54Z" visited="2019-10-25T10:10:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-10-25T10:10:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-XfPinr/EjerciciosGUI-2019/menufichero/InterfazMenu.java" added="2019-10-28T08:11:28Z" modified="2019-10-28T08:11:28Z" visited="2019-10-28T08:11:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-28T08:11:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-s2QDJ9/programacionmodular/Salario.java" added="2019-10-28T08:12:14Z" modified="2019-10-28T08:12:14Z" visited="2019-10-28T08:12:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-28T08:12:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/Programador.Certificado.Java.2.Curso.Practico.Segunda.Edicion.RA-MA.pdf" added="2019-10-28T08:14:40Z" modified="2019-10-28T08:14:40Z" visited="2019-10-28T08:14:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2019-10-28T08:14:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/programacion/phyton/s_o_n_v3.py" added="2019-10-28T08:15:15Z" modified="2019-11-12T09:15:19Z" visited="2019-10-28T08:15:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-28T08:15:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-Kql3oe/programacionmodular/AreaRectangulo.java" added="2019-10-28T08:16:46Z" modified="2019-10-28T08:16:46Z" visited="2019-10-28T08:16:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-28T08:16:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/programacion/ProgramacionEstructurasDeControl/TrianguloPitagorico.java" added="2019-10-28T08:22:49Z" modified="2019-11-12T09:15:19Z" visited="2019-10-28T08:22:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-28T08:22:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-QpYU2Y/programacionmodular/Factorial.java" added="2019-10-28T11:54:05Z" modified="2019-10-28T11:54:05Z" visited="2019-10-28T11:54:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-28T11:54:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/programacion" added="2019-10-29T13:18:32Z" modified="2019-10-29T13:18:32Z" visited="2019-10-29T13:18:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-29T13:18:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/marcas/Practica%20formulario%202.zip" added="2019-10-30T08:20:15Z" modified="2019-11-08T11:32:53Z" visited="2019-10-30T08:20:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-11-08T11:32:53Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/marcas/Practica%20formulario%201-2" added="2019-10-30T08:21:29Z" modified="2019-10-30T08:21:29Z" visited="2019-10-30T08:21:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/brackets_brackets.desktop /snap/bin/brackets %U&apos;" modified="2019-10-30T08:21:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/marcas/Practica%20formulario%202/._formulario2.html" added="2019-10-30T08:26:37Z" modified="2019-10-30T08:26:37Z" visited="2019-10-30T08:26:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/brackets_brackets.desktop /snap/bin/brackets %U&apos;" modified="2019-10-30T08:26:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/marcas/Practica%20formulario%201/FORMULARIOS/formulario2.html" added="2019-10-30T08:27:15Z" modified="2019-10-30T08:52:29Z" visited="2019-10-30T08:27:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/brackets_brackets.desktop /snap/bin/brackets %U&apos;" modified="2019-10-30T08:38:54Z" count="2"/>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-30T08:39:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/marcas/Practica%20formulario%201/FORMULARIOS/formulario1/formulario.html" added="2019-10-30T08:28:59Z" modified="2019-10-30T08:54:58Z" visited="2019-10-30T08:29:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-30T08:28:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:////media/alumno/KEVIN/marcas/Practica%20formulario%201/estilo.css" added="2019-10-30T08:29:22Z" modified="2019-10-30T08:29:22Z" visited="2019-10-30T08:29:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-30T08:29:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:////media/alumno/KEVIN/marcas/Practica%20formulario%202/formulario2.css" added="2019-10-30T08:41:08Z" modified="2019-10-30T08:41:08Z" visited="2019-10-30T08:41:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Brackets" exec="&apos;Brackets %u&apos;" modified="2019-10-30T08:41:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-5J2wNA/estructurasdecontrol/cuenta_atras.py" added="2019-11-04T07:50:03Z" modified="2019-11-04T07:50:03Z" visited="2019-11-04T07:50:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T07:50:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-a8NXSS/estructurasdecontrol/Tabla_de_multiplicar.py" added="2019-11-04T08:15:28Z" modified="2019-11-04T08:15:28Z" visited="2019-11-04T08:15:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T08:15:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-PxkGYC/estructurasdecontrol/password_correcta_while.py" added="2019-11-04T08:26:20Z" modified="2019-11-04T08:26:20Z" visited="2019-11-04T08:26:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T08:26:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-tZQJvb/estructurasdecontrol/while_multiplos_dos.py" added="2019-11-04T08:33:51Z" modified="2019-11-04T08:33:51Z" visited="2019-11-04T08:33:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T08:33:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-LbI3N1/estructurasdecontrol/s_o_n.py" added="2019-11-04T09:02:21Z" modified="2019-11-04T09:02:21Z" visited="2019-11-04T09:02:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T09:02:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-90lH7I/estructurasdecontrol/s_o_n_v2.py" added="2019-11-04T09:03:34Z" modified="2019-11-04T09:03:34Z" visited="2019-11-04T09:03:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T09:03:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-AAM51u/estructurasdecontrol/s_o_n_v3.py" added="2019-11-04T09:03:54Z" modified="2019-11-04T09:03:54Z" visited="2019-11-04T09:03:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T09:03:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Im%C3%A1genes/fotos/fotos/cuenta_atras.py" added="2019-11-04T10:50:54Z" modified="2019-11-04T10:50:54Z" visited="2019-11-04T10:50:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T10:50:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Im%C3%A1genes/fotos/fotos/NotaMedia.py" added="2019-11-04T12:42:14Z" modified="2019-11-04T12:42:14Z" visited="2019-11-04T12:42:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T12:42:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Im%C3%A1genes/fotos/fotos/Tabla_de_multiplicar.py" added="2019-11-04T12:51:25Z" modified="2019-11-04T12:51:25Z" visited="2019-11-04T12:51:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-04T12:51:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/02_Ejercicios%20GM%20contigua%20copia.docx" added="2019-11-07T11:36:59Z" modified="2019-11-08T10:11:35Z" visited="2019-11-07T11:36:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-08T10:11:35Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/02_Ejercicios%20GM%20%20contigua_modelo%20copia.xlsx" added="2019-11-08T09:23:37Z" modified="2019-11-08T12:50:26Z" visited="2019-11-08T09:23:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-08T12:50:26Z" count="22"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/02_Ejercicios%20GM%20contigua%20copia-1.docx" added="2019-11-08T09:30:34Z" modified="2019-11-08T09:30:47Z" visited="2019-11-08T09:30:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-08T09:30:47Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_alumno0/02_Ejercicios%20GM%20%20contigua_modelo%20copia-1.xlsx" added="2019-11-08T12:18:15Z" modified="2019-11-08T12:18:33Z" visited="2019-11-08T12:18:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-08T12:18:33Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/GESTION%20DE%20MEMORIA%20DINAMICA%20Y%20ESTATICA" added="2019-11-08T12:50:21Z" modified="2019-11-08T12:50:21Z" visited="2019-11-08T12:50:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-08T12:50:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/GESTION%20DE%20MEMORIA%20DINAMICA%20Y%20ESTATICA.xlsx" added="2019-11-08T12:50:27Z" modified="2019-11-13T12:31:24Z" visited="2019-11-08T12:50:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-13T11:13:33Z" count="13"/>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-11-13T12:31:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-v14g9y/programacionmodular/FactorialRecursivo.java" added="2019-11-11T07:42:33Z" modified="2019-11-11T07:42:33Z" visited="2019-11-11T07:42:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T07:42:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-TTW5jA/programacionmodular/CalculadoraModular.java" added="2019-11-11T07:46:27Z" modified="2019-11-11T07:46:27Z" visited="2019-11-11T07:46:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T07:46:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-czRpoO/programacionmodular/AreaRectangulo.java" added="2019-11-11T07:49:41Z" modified="2019-11-11T07:50:00Z" visited="2019-11-11T07:49:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T07:50:00Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-jacEIU/programacionmodular/CambioBase.java" added="2019-11-11T07:57:50Z" modified="2019-11-11T07:57:50Z" visited="2019-11-11T07:57:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T07:57:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-QTbDL9/programacionmodular/combinaciones.java" added="2019-11-11T07:59:47Z" modified="2019-11-11T07:59:47Z" visited="2019-11-11T07:59:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T07:59:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-h5SAGd/programacionmodular/Fecha.java" added="2019-11-11T08:16:27Z" modified="2019-11-11T08:16:27Z" visited="2019-11-11T08:16:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T08:16:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-AFoOxE/programacionmodular/Mcd.java" added="2019-11-11T08:26:59Z" modified="2019-11-11T08:26:59Z" visited="2019-11-11T08:26:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T08:26:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-cJDoL5/programacionmodular/McdRecursivo.java" added="2019-11-11T08:45:17Z" modified="2019-11-11T08:45:17Z" visited="2019-11-11T08:45:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T08:45:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-RzTx6T/programacionmodular/Potencia.java" added="2019-11-11T08:46:59Z" modified="2019-11-11T08:46:59Z" visited="2019-11-11T08:46:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T08:46:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-jo5vlx/programacionmodular/PotenciaRecursiva.java" added="2019-11-11T08:48:11Z" modified="2019-11-11T08:48:11Z" visited="2019-11-11T08:48:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T08:48:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-CepIO9/programacionmodular/Salario.java" added="2019-11-11T08:49:26Z" modified="2019-11-11T08:49:26Z" visited="2019-11-11T08:49:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T08:49:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/CabezaKevin/ExamenProgramacion1/ejercicio1.java" added="2019-11-11T13:05:10Z" modified="2019-11-11T13:05:10Z" visited="2019-11-11T13:05:10Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T13:05:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/CabezaKevin/ExamenProgramacion1/ejercicio3.java" added="2019-11-11T13:05:14Z" modified="2019-11-11T13:05:18Z" visited="2019-11-11T13:05:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T13:05:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/CabezaKevin/ExamenProgramacion1/ejercicio4_.java" added="2019-11-11T13:05:22Z" modified="2019-11-11T13:05:22Z" visited="2019-11-11T13:05:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-11T13:05:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/sistemas%20operatiivos/Pr%C3%A1ctica%204.pdf" added="2019-11-12T09:08:27Z" modified="2019-11-12T09:08:56Z" visited="2019-11-12T09:08:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2019-11-12T09:08:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/sistemas%20operatiivos/Pr%C3%A1ctica%201.pdf" added="2019-11-12T09:08:32Z" modified="2019-11-12T09:08:56Z" visited="2019-11-12T09:08:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2019-11-12T09:08:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/sistemas%20operatiivos/Pr%C3%A1ctica%205.txt" added="2019-11-12T09:08:36Z" modified="2019-11-12T09:08:56Z" visited="2019-11-12T09:08:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-12T09:08:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/sistemas%20operatiivos/Pr%C3%A1ctica%202" added="2019-11-12T09:08:44Z" modified="2019-11-12T09:08:56Z" visited="2019-11-12T09:08:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-12T09:08:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/entornos/semantica%20trabajo.odt" added="2019-11-12T09:10:32Z" modified="2019-11-12T09:10:43Z" visited="2019-11-12T09:10:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-12T09:10:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/.cache/.fr-SMy8ei/Solucion%20Examen/Ecuacion.java" added="2019-11-12T11:37:52Z" modified="2019-11-12T11:37:52Z" visited="2019-11-12T11:37:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-12T11:37:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Escritorio/GIT/RepositorioLocal1/readme.md" added="2019-11-13T07:49:08Z" modified="2019-11-13T07:58:13Z" visited="2019-11-13T07:49:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-13T07:49:08Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-13T07:58:13Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Escritorio/GIT/RepositorioLocal1/readme.md.odt" added="2019-11-13T07:49:09Z" modified="2019-11-13T07:49:09Z" visited="2019-11-13T07:49:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-13T07:49:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Escritorio/GIT/RepositorioLocal1" added="2019-11-13T08:12:06Z" modified="2019-11-13T08:12:06Z" visited="2019-11-13T08:12:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2019-11-13T08:12:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Descargas/02_Ejercicios%20GM%20%20contigua_modelo%20copia.xlsx" added="2019-11-13T10:50:08Z" modified="2019-11-13T10:58:55Z" visited="2019-11-13T10:50:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-13T10:58:55Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Descargas/Pra%CC%81ctica%201%20Gestio%CC%81n%20de%20Procesos.xlsx" added="2019-11-13T10:50:18Z" modified="2019-11-13T10:50:20Z" visited="2019-11-13T10:50:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-13T10:50:20Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Descargas/02_Ejercicios%20GM%20contigua%20copia.docx" added="2019-11-13T10:53:14Z" modified="2019-11-13T10:53:15Z" visited="2019-11-13T10:53:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-13T10:53:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/COMANDOS%20SQL" added="2019-11-13T11:33:31Z" modified="2019-11-13T13:11:54Z" visited="2019-11-13T11:33:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-11-13T13:11:54Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Im%C3%A1genes/Captura%20de%20pantalla%20de%202019-11-15%2008-36-51.png" added="2019-11-15T07:36:51Z" modified="2019-11-15T07:39:27Z" visited="2019-11-15T07:36:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-11-15T07:36:51Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-11-15T07:39:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Im%C3%A1genes/Captura%20de%20pantalla%20de%202019-11-15%2008-37-05.png" added="2019-11-15T07:37:05Z" modified="2019-11-15T07:40:43Z" visited="2019-11-15T07:37:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-11-15T07:37:05Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-11-15T07:40:43Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Im%C3%A1genes/Captura%20de%20pantalla%20de%202019-11-15%2008-38-24.png" added="2019-11-15T07:38:24Z" modified="2019-11-15T07:38:24Z" visited="2019-11-15T07:38:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-11-15T07:38:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alumno/Im%C3%A1genes/Captura%20de%20pantalla%20de%202019-11-15%2008-38-36.png" added="2019-11-15T07:38:36Z" modified="2019-11-15T07:41:26Z" visited="2019-11-15T07:38:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-11-15T07:38:36Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-11-15T07:41:26Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/GESTION%20DE%20MEMORIA%20PRACTICA%203" added="2019-11-15T09:47:49Z" modified="2019-11-15T09:47:49Z" visited="2019-11-15T09:47:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-15T09:47:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/alumno/KEVIN/sistemas%20informaticos/GESTION%20DE%20MEMORIA%20PRACTICA%203.ods" added="2019-11-15T09:47:50Z" modified="2019-11-15T09:58:00Z" visited="2019-11-15T09:47:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.0" exec="&apos;soffice %u&apos;" modified="2019-11-15T09:58:00Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

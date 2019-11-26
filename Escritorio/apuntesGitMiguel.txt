@@ -1,0 +1,81 @@
+COMANDOS GIT:
+
+----> IMPORTANTE
+
+## iniciar repositorio git en local
+git init
+
+## conectar repositorio git local con repositorio online GitHub (URLGithub)
+git remote add github URLgitHub
+
+## Siempre que queramos subir algo
+git add .
+git commit -m "comentario"
+git status
+git push ...
+
+git push github master --set-upstream                   
+(solo la primera vez que hacemos el push; si lo hacemos la primera vez solo hace falta poner origin y no URLGithub)
+
+git push origin master / git push URLgitHub master
+///////////////////////////////////////////////////////////
+
+
+## Descargar rama master del directorio de GitHub URLgitHub
+git pull URLgitHub master
+
+## Crear una rama que se llama dev
+git branch dev
+
+## Cambiar a la rama dev
+git checkout dev
+
+
+#################################################################################################################
+Para hacer un merge --> guardando cambios que se han subido online a tu repositorio local
+#################################################################################################################
+1.Uno de los dos tiene que crear un repositorio en GitHub
+2.El otro(ALUMNO2) inicia el repositorio local de git (git init) y hace un (git clone) del repositorio del GitHub
+3. ALUMNO 2: crea una nueva rama, se cambia a esa nueva rama y alli hace los cambios en los ficheros.
+4. ALUMNO 2: sube la nueva rama en local a una nueva rama online
+5. ALUMNO 1: hace un pull de la nueva rama online a su rama master local ---> SE HACE UN MERGE AUTOMATICAMENTE,
+                                                                              AÑADIENDO LOS CAMBIOS DE LA NUEVA
+                                                                              RAMA A LA RAMA MASTER.
+6. ALUMNO 1: sube la rama master local a la rama master online. 
+#################################################################################################################
+
+
+#############################################################################################
+merge --> guardando cambios hechos en una nueva rama local a la rama local original
+################################################################################################
+4. ALUMNO 2: cambia a la rama master, y desde alli hace un merge de la nueva rama donde hemos
+              hecho los cambios (git merge dev) --> si quisiesemos hacer un merge de la rama dev local
+                                                    a la rama master local.
+
+5. ALUMNO 2: sube la rama master local a la rama master online
+
+#########################################################################################################
+---> Una vez que se han hecho los cambios en la rama dev:
+git checkout master    (volvemos a la rama master)
+git merge dev          (hacemos el merge de la rama dev en la rama master, guardamos los cambios que haya en la
+                        rama dev respecto a la rama master)
+
+
+
+git add .
+git commit -m ""
+git status
+
+## sube la rama master
+git push origin/URLGithub master
+
+
+## Descarga un repositorio online completo a local
+git clone URLGitHub
+
+## Descarga los cambios del repositorio online (de la URLGithub) en el repositorio local seleccionado. 
+git pull origin/URLGithub dev
+
+
+## mirar las ramas que tenemos en local
+git branch

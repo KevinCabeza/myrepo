@@ -1,0 +1,103 @@
+meta-ext.rncembed-ext.rnccommon-ext.rncits20-html5.rncits20-html5-types.rnccore-scripting-ext.rnc	html5.rnc
+xhtml5.rnchtml5XMLSchema.xsdxhtml-lat1.entxhtml-symbol.entxhtml-special.ent	python3.6site-packagessvg11mml3Makefile	svg11.rnc	patch-vnuinkscape.rncmathml3.rncsvg-clip.rncsvg-font.rncsvg-mask.rncmathml3-inc.rncmathml3-common.rncsvg-text.rncsvg-view.rncsvg-image.rncsvg-qname.rncsvg-shape.rncsvg-style.rncsvg11-inc.rncmathml3-content.rncsvg-cursor.rncmathml3-presentation.rncmathml3-strict-content.rnc	resourcespatches0004_ping.patch0001_html5.patch0002_xhtml5.patch0007_legacy.patchpatch_build.patch0008_svg_gradient.patch0005_html5_namespace.patchsvg-filter.rnc0006_xhtml5_namespace.patchsvg-marker.rncrelaxng.rnghtml5-schemasvg-script.rncrdfsvg11-tiny.rncsvg-pattern.rncrdf.rncsvg-profile.rncits2svg11-basic.rncsvg-gradient.rncsvg-animation.rncsvg-datatypes.rncsvg-hyperlink.rncsvg-structure.rncinkscape-draft.rncsvg-basic-clip.rncsvg-basic-font.rncsvg-basic-text.rncsvg11-tiny-inc.rncsvg-conditional.rncsvg-core-attrib.rncsvg11-basic-inc.rncsvg-basic-filter.rncsvg-paint-attrib.rncsvg-xlink-attrib.rncsvg-extensibility.rncaria.rncsvg-opacity-attrib.rncdata.rncsvg-basic-structure.rncmeta.rncsvg-graphics-attrib.rncrdfa.rncsvg-viewport-attrib.rncruby.rncsvg-container-attrib.rnc	block.rncsvg-docevents-attrib.rnc	embed.rncsvg-animevents-attrib.rncsvg-graphevents-attrib.rnc	media.rnc
+common.rncsvg-extresources-attrib.rnc
+legacy.rncsvg-basic-graphics-attrib.rnc
+phrase.rncxhtml11
+tables.rncrevision.rnchtml5core.rnchtml5full.rncmicrodata.rncsectional.rncxhtml11.dtdweb-forms.rncstructural.rncweb-forms2.rncxhtml-base-1.modxhtml5core.rncxhtml-edit-1.modxhtml-form-1.modapplications.rncxhtml-link-1.modcore-scripting.rncxhtml-list-1.modform-datatypes.rncxhtml-meta-1.modhtml5full-rdfa.rncxhtml-pres-1.modweb-components.rncxhtml-ruby-1.modhtml5exclusions.rncxhtml5full-html.rncxhtml-text-1.modxhtml5full-xhtml.rncxhtml-image-1.modxhtml-param-1.modxhtml-qname-1.modhtml5full-rdfalite.rncweb-forms-scripting.rncxhtml-style-1.modweb-forms2-scripting.rncxhtml-table-1.modxhtml5full-xhtml-rdfa.rncxhtml-events-1.modhtml5full-no-microdata.rncxhtml-object-1.modxhtml5full-html-rdfalite.rncxhtml-script-1.modxhtml5full-xhtml-rdfalite.rncxhtml-struct-1.modxhtml5core-plus-web-forms2.rncxhtml-target-1.mod xhtml5full-html-no-microdata.rncxhtml-attribs-1.mod!xhtml5full-xhtml-no-microdata.rncxhtml-blkpres-1.modxhtml-charent-1.modxhtml-csismap-1.modLICENSEhtml5-all.rnchtml5-its.rncxhtml-inlpres-1.modxhtml-ssismap-1.modxhtml11-model-1.modxhtml-blkphras-1.modxhtml-inlphras-1.modhtml5chars.entxhtml-inlstyle-1.modxhtml5-all.rncxhtml-blkstruct-1.modhtml5-rdfalite.rncxhtml-datatypes-1.modxhtml5-rdfalite.rncxhtml-framework-1.modhtml5-svg-mathml.rncxhtml-hypertext-1.modxhtml5-svg-mathml.rncxhtml-inlstruct-1.modhtml5-no-microdata.rncxhtml-basic-form-1.modhtml5-rdfalite-w3c.rncxhtml-basic-table-1.modxhtml5-no-microdata.rncxhtml-mobilexhtml5-rdfalite-w3c.rncsvg-xhtml5-rdf-mathml.rncxhtml-mobile10.dtdxhtml1-ruby-rdf-svg-mathml.rncxhtml-mobile12.dtdhtml5charref.rbxhtmlmp12-form-1.modupdate_html5_schema.shstandardSchemasxhtml-mobile10-flat.dtdxhtml-mobile12-form.mod
+xhtml5.xsdxhtml-mobile10-model-1.modxml.xsdxhtml-mobile12-model-1.mod	xhtml.dtdschemasproperties.dtd	xlink.dtd
+xhtml1.dtdextResourcescatalog.xsdxinclude.xsdxslt-1_0.xsdxslt-2_0.xsdXMLSchema-1_1!XMLSchema-hasFacetAndProperty.xsdXMLSchema.dtddatatypes.dtdxhtml1-strict.dtdxhtml1-strict.xsdxhtml1-frameset.dtdxhtml1-frameset.xsdplugin-repository.dtdXMLSchema-instance.xsdxhtml1-transitional.dtdxhtml1-transitional.xsdXMLSchema-versioning.xsdintroduccionvenvlib64binlib
+pyvenv.cfgincludeactivate.fishactivatepythonpython3activate.csh.ideaintroduccion.imlworkspace.xmlmodules.xmlinspectionProfilesprofiles_settings.xmlestructurasdecontrol__init__.pysuma_2_numeros.pyabc.py	pickle.py	struct.py
+decimal.pyLICENSE.txtcollectionssubprocess.pydummy	queues.pymanagers.pylib-dynload
+-917944599dbmpython-skeletonsosgnu.pypath.pydumb.pyndbm.pypypathxmldom	domreg.py
+minidom.py#nis.cpython-36m-x86_64-linux-gnu.so$_bz2.cpython-36m-x86_64-linux-gnu.so
+pulldom.py$_csv.cpython-36m-x86_64-linux-gnu.soNodeFilter.pyminicompat.pyxmlbuilder.pyexpatbuilder.pysax$_dbm.cpython-36m-x86_64-linux-gnu.so
+handler.pysaxutils.pyxmlreader.py_exceptions.pyexpatreader.pyetree$_ssl.cpython-36m-x86_64-linux-gnu.soElementPath.pyElementTree.pynosecElementTree.pyElementInclude.pytoolsparsersexpat.pynumpyhtmlentities.pyhttp
+cookies.pycookiejar.pyjsontool.py
+decoder.py
+encoder.py
+scanner.py$mmap.cpython-36m-x86_64-linux-gnu.somultiarray.pydjangodbmodelsquery.pymail.py%_gdbm.cpython-36m-x86_64-linux-gnu.sotestsupporttestresult.py%_json.cpython-36m-x86_64-linux-gnu.soformsscript_helper.pyforms.py
+pystone.py	models.pyformsets.pylibregrtestviews%_lzma.cpython-36m-x86_64-linux-gnu.sosetup.py
+cmdline.pygeneric
+refleak.py
+runtest.pysave_env.pyruntest_mp.pypytestregrtest.pytest_support.pysys.py_csv.pyscripts_pytestposix&_crypt.cpython-36m-x86_64-linux-gnu.somarkstructures.pylettuce&parser.cpython-36m-x86_64-linux-gnu.so
+terrain.py	README.md	behave.py
+alembic.py
+logging.pycommon'_ctypes.cpython-36m-x86_64-linux-gnu.so'_curses.cpython-36m-x86_64-linux-gnu.soAUTHORS.txtStringIO.pycStringIO.py'_lsprof.cpython-36m-x86_64-linux-gnu.soemailmime'_opcode.cpython-36m-x86_64-linux-gnu.sotext.pyaudio.pyimage.pymultipart.pyapplication.pynonmultipart.py	errors.py	header.py	policy.py'audioop.cpython-36m-x86_64-linux-gnu.soio.pyire.pyi'termios.cpython-36m-x86_64-linux-gnu.so
+charset.pyencoders.py(_asyncio.cpython-36m-x86_64-linux-gnu.so	locks.pyigenerator.py	tasks.pyiiterators.py
+events.pyi_parseaddr.pybase64mime.pyfutures.pyifeedparser.pyrunners.pyiquoprimime.pystreams.pyi_policybase.pyarchitecture.rstprotocols.pyi_encoded_words.pycoroutines.pyicontentmanager.pyheaderregistry.pytransports.pyi_header_value_parser.pybase_events.pyiio.pyos.pyre.pyuu.pyast.pybdb.pybz2.pycgi.pycmd.pycsv.py
+_endian.pywintypes.pycursescase.pyi(_decimal.cpython-36m-x86_64-linux-gnu.sopanel.py	suite.pyi
+has_key.py
+loader.pyi
+textpad.py
+result.pyi
+runner.pyi(_hashlib.cpython-36m-x86_64-linux-gnu.sodis.pysignals.pyiimp.pypdb.pypty.py	types.pyissl.py(_sqlite3.cpython-36m-x86_64-linux-gnu.sotty.py
+signal.pyi
+typing.pyiabc.pyipathlib.pyifunctools.pyiitertools.pyi(readline.cpython-36m-x86_64-linux-gnu.sopool.pyi	spawn.pyiparse.py
+request.pyresponse.pyrobotparser.pyxmlrpcaifc.py(resource.cpython-36m-x86_64-linux-gnu.solog.pylocks.pytasks.py	compat.py
+futures.py
+streams.pysslproto.pyconstants.pyprotocols.pybase_tasks.pycoroutines.pytest_utils.pytransports.pybase_events.pyunix_events.pybase_futures.pywindows_utils.pywindows_events.pybase_subprocess.pyproactor_events.pyselector_events.pycode.pyenum.pyglob.pygzip.pyhmac.pylogging	config.pylzma.pycontext.pyi)_testcapi.cpython-36m-x86_64-linux-gnu.soprocess.pyimanagers.pyisynchronize.pyisite.pydump.py	dbapi2.pystat.pythis.py_importlib_modulespec.pyi)xxlimited.cpython-36m-x86_64-linux-gnu.souuid.pywave.pywsgiref
+headers.pyvalidate.pysimple_server.py_pyio.pycgitb.pychunk.pycrypt.pyheapq.pynetrc.py*_codecs_cn.cpython-36m-x86_64-linux-gnu.so*_codecs_hk.cpython-36m-x86_64-linux-gnu.so*_codecs_jp.cpython-36m-x86_64-linux-gnu.so*_codecs_kr.cpython-36m-x86_64-linux-gnu.so*_codecs_tw.cpython-36m-x86_64-linux-gnu.sopipes.pypydoc.pyqueue.pyrunpy.pysched.pyshlex.pysmtpd.pysunau.pytoken.pytrace.pytypes.pycase.pymock.pysuite.py	loader.py	result.py	runner.py
+signals.py	base64.py	binhex.py	bisect.py	codecs.py	codeop.py	distutils+_testbuffer.cpython-36m-x86_64-linux-gnu.so
+version.py	encodingshz.pygbk.pyoem.pybig5.pyidna.pymbcs.pycp037.pycp273.pycp424.pycp437.pycp500.pycp720.pycp737.pycp775.pycp850.pycp852.pycp855.pycp856.pycp857.pycp858.pycp860.pycp861.pycp862.pycp863.pycp864.pycp865.pycp866.pycp869.pycp874.pycp875.py+ossaudiodev.cpython-36m-x86_64-linux-gnu.so,_ctypes_test.cpython-36m-x86_64-linux-gnu.socp932.pycp949.py-_curses_panel.cpython-36m-x86_64-linux-gnu.soutil.pyiwintypes.pyi
+dbapi2.pyissl.pyimath.pyitime.pyiuuid.pyi
+shutil.pyi
+socket.pyiargparse.pyidatetime.pyithreading.pyisixmoves	error.pyi	parse.pyirequest.pyiresponse.pyirobotparser.pyi_thread.pyicPickle.pyireprlib.pyitkinter.pyihtml_parser.pyihttp_client.pyitkinter_ttk.pyiconfigparser.pyihttp_cookies.pyisocketserver.pyiurllib_error.pyiurllib_parse.pyiCGIHTTPServer.pyi_dummy_thread.pyihtml_entities.pyiBaseHTTPServer.pyihttp_cookiejar.pyitkinter_dialog.pyiurllib_request.pyiemail_mime_base.pyiemail_mime_text.pyiurllib_response.pyiSimpleHTTPServer.pyitkinter_constants.pyitkinter_filedialog.pyiurllib_robotparser.pyiemail_mime_multipart.pyitkinter_commondialog.pyitkinter_tkfiledialog.pyiemail_mime_nonmultipart.pyicp950.pyjohab.pyutf_7.pycorebase.pyutils.py	parser.py
+message.pysubprocess.pyi
+queues.pyierror.py	client.py	server.pyasyncio	events.pycopy.pyconnection.pyihandlers.pyctypesunittestmain.py__main__.pyascii.pysqlite33urllib	queue.pyibuiltins.pyi2and3__init__.pyimock.pyimultiprocessingutil.py
+process.pyconnection.pyutf_8.py	cp1006.pyattr	cp1026.py	cp1125.py	cp1140.py	cp1250.py	cp1251.pyfilters.pyi	cp1252.py	cp1253.pyconverters.pyi	cp1254.pyexceptions.pyi	cp1255.pyvalidators.pyi	cp1256.py	cp1257.pytyping_extensions.pyi	cp1258.py	euc_jp.py	euc_kr.py	gb2312.py	koi8_r.py	koi8_t.py	koi8_u.py	kz1048.py	palmos.py	rot_13.py	utf_16.py	utf_32.py
+aliases.py
+charmap.py
+cp65001.py
+gb18030.py
+latin_1.py
+ptcp154.py
+tis_620.pypunycode.pyuu_codec.pybig5hkscs.pybz2_codec.pyhex_codec.pyhp_roman8.pyiso8859_1.pyiso8859_2.py/_codecs_iso2022.cpython-36m-x86_64-linux-gnu.soiso8859_3.pyiso8859_4.pyiso8859_5.pyiso8859_6.pyiso8859_7.pyiso8859_8.pyiso8859_9.pymac_farsi.pymac_greek.pymac_roman.pyshift_jis.pyundefined.py/_multibytecodec.cpython-36m-x86_64-linux-gnu.soutf_16_be.pyutf_16_le.pyutf_32_be.pyutf_32_le.pyutf_8_sig.pyiso2022_jp.pyiso2022_kr.pyiso8859_10.pyiso8859_11.pyiso8859_13.pyiso8859_14.pyiso8859_15.pyiso8859_16.pymac_arabic.pymac_latin2.pyzlib_codec.pymac_iceland.pymac_turkish.pybase64_codec.pyeuc_jis_2004.pyeuc_jisx0213.pyiso2022_jp_1.py/_testmultiphase.cpython-36m-x86_64-linux-gnu.soiso2022_jp_2.pyiso2022_jp_3.pymac_centeuro.pymac_croatian.pymac_cyrillic.pymac_romanian.pyquopri_codec.pyiso2022_jp_ext.pyshift_jis_2004.pyshift_jisx0213.pyunicode_escape.pyiso2022_jp_2004.pyunicode_internal.pyraw_unicode_escape.py	ftplib.py	getopt.py	imghdr.py	importlibmachinery.py_bootstrap.py_bootstrap_external.py	locale.py0_multiprocessing.cpython-36m-x86_64-linux-gnu.so	ntpath.py	opcode.py	poplib.py	pprint.py	pstats.py	pyclbr.py	quopri.py	random.py	shelve.py	shutil.py	signal.py	sndhdr.py	socket.py	string.py	symbol.py	timeit.py	turtle.py3_testimportmultiple.cpython-36m-x86_64-linux-gnu.so	typing.py	xdrlib.py	zipapp.py
+concurrentfutures_base.py	thread.py
+copyreg.py
+difflib.py
+doctest.py
+filecmp.py
+fnmatch.py
+getpass.py
+gettext.py
+hashlib.py
+imaplib.py
+inspect.py
+keyword.py
+macpath.py
+mailbox.py
+mailcap.py
+nntplib.py
+numbers.py
+pathlib.py
+pkgutil.py
+profile.py
+pydoc_data	topics.py
+_pydoc.css
+reprlib.py
+secrets.py
+smtplib.py
+tarfile.py
+weakref.py
+zipfile.pyargparse.pyasynchat.pyasyncore.pycProfile.pycalendar.pycolorsys.pydatetime.pyoperator.pyoptparse.pyplatform.pyplistlib.pysymtable.pytabnanny.pytempfile.pytextwrap.pytokenize.pywarnings.py_strptime.pyfileinput.pyformatter.pyfractions.pyfunctools.pyipaddress.pylinecache.pymimetypes.pyposixpath.pyselectors.pysre_parse.pysysconfig.pytelnetlib.pythreading.pytraceback.py__future__.py_pydecimal.pycompileall.pycontextlib.pynturl2path.pypy_compile.pystatistics.pystringprep.pywebbrowser.py_bootlocale.py_markupbase.py_weakrefset.pyantigravity.pygenericpath.pymacurl2path.pypickletools.pyrlcompleter.pysre_compile.pytracemalloc.py_compression.py_osx_support.pyconfigparser.pymodulefinder.pyheap.pypool.pyspawn.py
+context.pyreduction.pyforkserver.pypopen_fork.pysynchronize.pysharedctypes.pyresource_sharer.pypopen_forkserver.pypopen_spawn_posix.pypopen_spawn_win32.pysemaphore_tracker.pysocketserver.py_dummy_thread.py_sitebuiltins.pysitecustomize.pysre_constants.py__phello__.foo.py_compat_pickle.pydummy_threading.py_collections_abc.py_threading_local.pyconfig-3.6m-x86_64-linux-gnulibpython3.6.solibpython3.6m.so*_sysconfigdata_m_linux_x86_64-linux-gnu.pymisc.xml
+_codecs.py_ast.py
+_bisect.py
+_blake2.py
+_curses.py
+_locale.py_lzma.pybinascii.py_weakref.py	_heapq.py	_crypt.pypwd.py
+marshal.pyzlib.py_multibytecodec.py_testbuffer.py_codecs_jp.pyzipimport.py	syslog.py_stat.pymath.py_md5.pyossaudiodev.py
+_lsprof.py_ctypes_test.py_codecs_kr.py_testmultiphase.pyfcntl.py_posixsubprocess.pymmap.pyarray.py_warnings.pyreadline.py_codecs_cn.pyposix.pycmath.py_curses_panel.py_sqlite3.py
+termios.pyspwd.py_sha1.pybuiltins.py_sre.pygc.py
+_struct.py_json.py
+_sha256.py
+_sha512.py
+audioop.py	select.py_sha3.pytime.py_codecs_hk.py_elementtree.pyerrno.pyxxsubtype.py_testcapi.py
+_socket.py_ssl.pynis.pyresource.pyunicodedata.py
+_random.py
+_ctypes.pypyexpat_imp.py_bz2.pyitertools.py_tracemalloc.py_operator.py_codecs_tw.py
+_thread.py_functools.py
+_pickle.py_multiprocessing.py_symtable.py	atexit.pyxxlimited.py_dbm.py_testimportmultiple.py_collections.py
+_string.py_datetime.py
+_signal.py_codecs_iso2022.py_gdbm.py_hashlib.py_asyncio.py_io.py
+_opcode.py_decimal.pyfaulthandler.pygrp.pymodel.pynumero_menor.pyÿ contraseÃ±a.pydivision_float.py	par_imparpar_impar.pyejerciciosER.zipdeclaracion_renta.pypracticar.pyexamencabezakevinexamenejer1.pyejer2.pyejer4.pyejer3.pyejer4verdadero.pycalculadora.pyrectangulo.py                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

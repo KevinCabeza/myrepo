@@ -1,0 +1,29 @@
+h2{
+    color: black;
+}
+figure {
+    width: 200px;
+    color: aqua;
+    border: 2px solid black;
+    float:  right;
+}
+
+figcaption {
+    background-color: blue;
+}
+
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: left;
+    
+}
+.fondo {
+    background-color: lightblue
+}
+.Urbia{
+    background-color: darkgreen;
+}

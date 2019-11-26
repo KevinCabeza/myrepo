@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Salida por pantalla: print(). Python. Bartolomé Sintes Marco. www.mclibre.org</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../varios/python.css" title="mclibre">
+  <link rel="icon" href="../varios/favicon.ico">
+  <link rel="stylesheet" href="../varios/prism-python.css">
+  <script src="../varios/prism.js"></script>
+</head>
+
+<body>
+  <h1>Salida por pantalla: la función <span class="idle-func">print</span>()</h1>
+
+  <nav>
+    <p>
+      <a href="../index.html"><img src="../varios/iconos/icono-python.svg" alt="Índice de Python" title="Índice de Python" width="48" height="48"></a>
+      <a href="#"><img src="../varios/iconos/icono-arrow-circle-up.svg" alt="Principio de la página" title="Principio de la página" width="36" height="36"></a>
+    </p>
+
+    <div class="toc">
+      <h2>Salida por pantalla</h2>
+
+      <ul>
+        <li><a href="#salida-idle">En entorno interactivo</a></li>
+        <li><a href="#funcion-print">La función <span class="idle-func">print</span>()</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <p>En Informática, la "salida" de un programa son los datos que el programa proporciona al exterior. Aunque en los inicios de la informática la salida más habitual era una impresora, hace muchos años que el dispositivo de salida más habitual es la pantalla del ordenador.</p>
+
+  <section id="salida-idle">
+    <h2>Salida por pantalla en el entorno interactivo</h2>
+
+    <p>En un entorno interactivo (por ejemplo, en IDLE), para que python nos muestre el valor de una variable basta con escribir su nombre.</p>
+
+    <div class="codigo idle">
+      <pre>
+<span class="idle-prompt">&gt;&gt;&gt;</span> a = 2
+<span class="idle-prompt">&gt;&gt;&gt;</span> a
+<span class="idle-resp">2</span>
+</pre>
+    </div>
+
+    <p>También se puede conocer el valor de varias variables a la vez escribiéndolas entre comas (el entorno interactivo las mostrará entre paréntesis), como muestra el siguiente ejemplo:</p>
+
+    <div class="codigo idle">
+      <pre>
+<span class="idle-prompt">&gt;&gt;&gt;</span> a = b = 2
+<span class="idle-prompt">&gt;&gt;&gt;</span> c = <span class="idle-cade">"pepe"</span>
+<span class="idle-prompt">&gt;&gt;&gt;</span> a
+<span class="idle-resp">2</span>
+<span class="idle-prompt">&gt;&gt;&gt;</span> c, b
+<span class="idle-resp">('pepe', 2)</span>
+</pre>
+    </div>
+
+  </section>
+
+  <section id="funcion-print">
+    <h2>La función <span class="idle-func">print</span>()</h2>
+
+    <p>En los programas, para que python nos muestre texto o variables hay que utilizar la función <span class="idle-func">print</span>().</p>
+
+    <p>La función <span class="idle-func">print</span>() permite mostrar texto en pantalla. El texto a mostrar se escribe como argumento de la función:</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre><code class="language-python">print("Hola")</code></pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">Hola</span></pre>
+      </div>
+    </div>
+
+    <p>Las cadenas se pueden delimitar tanto por comillas dobles (") como por comillas simples (').</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre><code class="language-python">print('Hola')</code></pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">Hola</span></pre>
+      </div>
+    </div>
+
+    <p><strong>Nota</strong>: En estos apuntes se utilizan normalmente comillas dobles.</p>
+
+    <hr class="corta">
+
+    <p>La función <span class="idle-func">print</span>() admite varios argumentos seguidos. En el programa, los argumentos deben separarse por comas. Los argumentos se muestran en el mismo orden y en la misma línea, separados por espacios:</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre><code class="language-python">print("Hola", "Adiós")</code></pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">Hola Adiós</span></pre>
+      </div>
+    </div>
+
+    <p>Cuando se trata de dos cadenas seguidas, se puede no escribir comas entre ellas, pero las cadenas se escribirán seguidas, sin espacio en blanco entre ellas:</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre><code class="language-python">print("Hola" "Adiós")</code></pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">HolaAdios</span></pre>
+      </div>
+    </div>
+
+    <p>Al final de cada <span class="idle-func">print</span>(), Python añade automáticamente un salto de línea:</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">print("Hola")
+print("Adiós")</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre>
+<span class="idle-resp">Hola
+Adiós</span>
+</pre>
+      </div>
+    </div>
+
+    <p>Para generar una línea en blanco, se puede escribir una orden <span class="idle-func">print</span>() sin argumentos.</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">print("Hola")
+print()
+print("Adiós")</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre>
+<span class="idle-resp">Hola
+
+Adiós</span></pre>
+      </div>
+    </div>
+
+    <p>Si no se quiere que Python añada un salto de línea al final de un <span class="idle-func">print</span>(), se debe añadir al final el argumento end=<span class="idle-cade">""</span>:</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">print("Hola", end="")
+print("Adiós")</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">HolaAdios</span></pre>
+      </div>
+    </div>
+
+    <p>En el ejemplo anterior, las dos cadenas se muestran pegadas. Si se quieren separar los argumentos en la salida, hay que incluir los espacios deseados (bien en la cadena, bien en el argumento end):</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">print("Hola.<span class="codigo-resaltado"> </span>", end="")
+print("Adiós")</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">Hola. Adiós</span></pre>
+      </div>
+    </div>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">print("Hola.", end="<span class="codigo-resaltado"> </span>")
+print("Adiós")</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">Hola. Adiós</span></pre>
+      </div>
+    </div>
+
+    <hr class="corta">
+
+    <p>Como las comillas indican el principio y el final de una cadena, si se escriben comillas dentro de comillas se produce un error de sintaxis.</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre><code class="language-python">print("Un tipo le dice a otro: "¿Cómo estás?"")</code></pre>
+      </div>
+
+      <div class="resultado-captura">
+        <img src="../img/error-cadena.png" alt="Aviso: Error de sintaxis (cadena incorrecta)" width="241" height="152">
+      </div>
+    </div>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre><code class="language-python">print('Un tipo le dice a otro: '¿Cómo estás?'')</code></pre>
+      </div>
+
+      <div class="resultado-captura">
+        <img src="../img/error-cadena.png" alt="Aviso: Error de sintaxis (cadena incorrecta)" width="241" height="152">
+      </div>
+    </div>
+
+    <p><strong>Nota</strong>: Si nos fijamos en la forma como el editor colorea la instrucción, podemos darnos cuenta de que hay un error en ella. Como las cadenas empiezan y acaban con cada comilla, el editor identifica dos cadenas y un texto en medio que no sabe lo que es.</p>
+
+    <p>Para incluir comillas dentro de comillas, se puede escribir una contrabarra (\) antes de la comilla para que Python reconozca la comilla como carácter, no como delimitador de la cadena:</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">print("Un tipo le dice a otro: \"¿Cómo estás?\"")
+print('Y el otro le contesta: \'¡Pues anda que tú!\'')</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre>
+<span class="idle-resp">Un tipo le dice a otro: "¿Cómo estás?"
+Y el otro le contesta: '¡Pues anda que tú!'</span>
+</pre>
+      </div>
+    </div>
+
+    <p>O escribir comillas distintas a las utilizadas como delimitador de la cadena:</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">print("Un tipo le dice a otro: '¿Cómo estás?'")
+print('Y el otro le contesta: "¡Pues anda que tú!"')</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre>
+<span class="idle-resp">Un tipo le dice a otro: '¿Cómo estás?'
+Y el otro le contesta: "¡Pues anda que tú!"</span>
+</pre>
+      </div>
+    </div>
+
+    <hr class="corta">
+
+    <p>La función <span class="idle-func">print</span>() permite incluir variables o expresiones como argumento, lo que nos permite combinar texto y variables:</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">nombre = "Pepe"
+edad = 25
+print("Me llamo", nombre, "y tengo", edad, "años.")</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">Me llamo Pepe y tengo 25 años.</span></pre>
+      </div>
+    </div>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">semanas = 4
+print("En", semanas , "semanas hay", 7 * semanas, "días.")</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">En 4 semanas hay 28 días.</span></pre>
+      </div>
+    </div>
+
+    <hr class="corta">
+
+    <p>La función <span class="idle-func">print</span>() muestra los argumentos separados por espacios, lo que a veces no es conveniente. En el ejemplo siguiente el signo de exclamación se muestra separado de la palabra.</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">nombre = "Pepe"
+print("¡Hola,", nombre, "!")</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">¡Hola, Pepe<span class="codigo-resaltado"> </span>!</span></pre>
+      </div>
+    </div>
+
+    <p>Antes de Python 3.6 estas situaciones se podían resolver de una forma algo engorrosa (que se comenta en la <a href="./python-obsoletos.html#print">lección de temas obsoletos</a>), pero a partir de Python 3.6 se pueden utilizar <a href="./python-cadenas.html#cadenas-f">las cadenas "f"</a>.</p>
+
+    <div class="filaflex">
+      <div class="codigo">
+        <pre>
+<code class="language-python">nombre = "Pepe"
+print(f"¡Hola, {nombre}!")</code>
+</pre>
+      </div>
+
+      <div class="resultado-idle">
+        <pre><span class="idle-resp">¡Hola, Pepe!</span></pre>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p class="ultmod">Última modificación de esta página: 15 de febrero de 2018</p>
+
+    <p class="licencia">
+      <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES"><img src="../varios/iconos/icono-cc-by-sa.svg" alt="Licencia Creative Commons" title="Licencia Creative Commons BY-SA" width="120" height="42"></a><br>
+      Esta página forma parte del curso <strong><a href="http://www.mclibre.org/consultar/python/">Introducción a la programación con Python</a></strong> por <a href="http://www.mclibre.org/">Bartolomé Sintes Marco</a><br>
+      que se distribuye bajo una <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES">Licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)</a>.
+    </p>
+  </footer>
+</body>
+</html>
+�N���      ]A]A@Χp]�{�   N    :http://www.mclibre.org/consultar/python/lecciones/python-salida-pantalla.html necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 16 Sep 2019 08:01:15 GMT
+Server: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 mod_perl/2.0.10 Perl/v5.16.3
+Last-Modified: Fri, 07 Jun 2019 20:37:30 GMT
+ETag: "2eb2-58ac1cca15680"
+Accept-Ranges: bytes
+Content-Length: 11954
+Content-Type: text/html; charset=UTF-8
+ original-response-headers Date: Mon, 16 Sep 2019 08:01:15 GMT
+Server: Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16 mod_wsgi/3.4 Python/2.7.5 mod_perl/2.0.10 Perl/v5.16.3
+Last-Modified: Fri, 07 Jun 2019 20:37:30 GMT
+ETag: "2eb2-58ac1cca15680"
+Accept-Ranges: bytes
+Content-Length: 11954
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+ uncompressed-len 0 predictor::resource-count 8 predictor::http://www.mclibre.org/consultar/python/varios/python.css 1,1,1568620827,4097 predictor::http://www.mclibre.org/consultar/python/varios/prism-python.css 1,1,1568620827,4097 predictor::http://www.mclibre.org/consultar/python/varios/prism.js 1,1,1568620827,4097 predictor::http://www.mclibre.org/consultar/python/varios/iconos/icono-python.svg 1,1,1568620827,4097 predictor::http://www.mclibre.org/consultar/python/varios/iconos/icono-arrow-circle-up.svg 1,1,1568620827,4097 predictor::http://www.mclibre.org/consultar/python/img/error-cadena.png 1,1,1568620827,4097 net-response-time-onstart 88 net-response-time-onstop 338 predictor::http://www.mclibre.org/consultar/python/varios/iconos/icono-cc-by-sa.svg 1,1,1568620827,4097 predictor::http://www.mclibre.org/consultar/python/varios/fonts/consolas.woff 1,1,1568620827,4096   .�

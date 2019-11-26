@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+
+<html  dir="ltr" lang="en" xml:lang="en">
+<head>
+    <title>AulaVirtual: Informática</title>
+    <link rel="shortcut icon" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/image.php/boost/theme/1564658891/favicon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, AulaVirtual: Informática" />
+<link rel="stylesheet" type="text/css" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/styles.php/boost/1564658891_1564418821/all" />
+<script type="text/javascript">
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid","sesskey":"XDr0j1hAMe","themerev":"1564658891","slasharguments":1,"theme":"boost","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1564658891","admin":"admin","svgicons":true,"usertimezone":"Europe\/Madrid","contextid":1504};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/theme\/yui_combo.php?m\/1564658891\/","combine":true,"comboBase":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/theme\/yui_combo.php?","ext":false,"root":"m\/1564658891\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-checknet":{"requires":["base-base","moodle-core-notification-alert","io-base"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-dock":{"requires":["base","node","event-custom","event-mouseenter","event-resize","escape","moodle-core-dock-loader","moodle-core-event"]},"moodle-core-dock-loader":{"requires":["escape"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-modchooser":{"requires":["moodle-core-chooserdialogue","moodle-course-coursebase"]},"moodle-course-formatchooser":{"requires":["base","node","node-event-simulate"]},"moodle-form-showadvanced":{"requires":["node","base","selector-css3"]},"moodle-form-passwordunmask":{"requires":[]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-qbankmanager":{"requires":["node","selector-css3"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_xp-form":{"requires":["base","node","event","handlebars","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_forum-subscriptiontoggle":{"requires":["base-base","io-base"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-repaginate":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-block_xp-rulepicker":{"requires":["base","node","handlebars","moodle-core-notification-dialogue"]},"moodle-block_xp-filters":{"requires":["base","node","moodle-core-dragdrop","moodle-block_xp-rulepicker"]},"moodle-block_xp-notification":{"requires":["base","node","handlebars","button-plugin","moodle-core-notification-dialogue"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_grader-gradereporttable":{"requires":["base","node","event","handlebars","overlay","event-hover"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_fullscreen-button":{"requires":["event-resize","moodle-editor_atto-plugin"]},"moodle-atto_html-beautify":{},"moodle-atto_html-codemirror":{"requires":["moodle-atto_html-codemirror-skin"]},"moodle-atto_html-button":{"requires":["promise","moodle-editor_atto-plugin","moodle-atto_html-beautify","moodle-atto_html-codemirror","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_wiris-button":{"requires":["moodle-editor_atto-plugin","get"]},"moodle-atto_wordimport-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1564658891\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/lib\/javascript.php\/1564658891\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/aulavirtual33.educa.madrid.org\/ies.goya.madrid\/lib\/javascript.php\/1564658891\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]},"mathjax":{"name":"mathjax","fullpath":"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/mathjax\/2.7.2\/MathJax.js?delayStartupUntil=configured"}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+
+<meta name="robots" content="noindex" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body  id="page-course-index-category" class="format-site  path-course path-course-index gecko dir-ltr lang-en yui-skin-sam yui3-skin-sam aulavirtual33-educa-madrid-org--ies.goya.madrid pagelayout-coursecategory course-1 context-1504 category-14 notloggedin ">
+
+<div id="page-wrapper">
+
+    <div>
+    <a class="sr-only sr-only-focusable" href="#maincontent">Skip to main content</a>
+</div><script type="text/javascript" src="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js"></script><script type="text/javascript" src="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/javascript.php/1564658891/lib/javascript-static.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+
+    <nav class="fixed-top navbar navbar-light bg-white navbar-expand moodle-has-zindex" aria-label="Site navigation">
+    
+            <div data-region="drawer-toggle" class="d-inline-block mr-3">
+                <button aria-expanded="false" aria-controls="nav-drawer" type="button" class="btn nav-link float-sm-left mr-1 btn-light bg-gray" data-action="toggle-drawer" data-side="left" data-preference="drawer-open-nav"><i class="icon fa fa-bars fa-fw " aria-hidden="true"  ></i><span class="sr-only">Side panel</span></button>
+            </div>
+    
+            <a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid" class="navbar-brand 
+                    d-none d-sm-inline
+                    ">
+                <span class="site-name d-none d-md-inline">AulaVirtual</span>
+            </a>
+    
+            <ul class="navbar-nav d-none d-md-flex">
+                <!-- custom_menu -->
+                <li class="dropdown nav-item">
+    <a class="dropdown-toggle nav-link" id="drop-down-5d7f39a7750a65d7f39a7608265" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#" aria-controls="drop-down-menu-5d7f39a7750a65d7f39a7608265">
+        English ‎(en)‎
+    </a>
+    <div class="dropdown-menu" role="menu" id="drop-down-menu-5d7f39a7750a65d7f39a7608265" aria-labelledby="drop-down-5d7f39a7750a65d7f39a7608265">
+                <a class="dropdown-item" role="menuitem" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php?categoryid=14&amp;lang=en" title="English ‎(en)‎">English ‎(en)‎</a>
+                <a class="dropdown-item" role="menuitem" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php?categoryid=14&amp;lang=es" title="Español - Internacional ‎(es)‎">Español - Internacional ‎(es)‎</a>
+    </div>
+</li>
+                <!-- page_heading_menu -->
+                
+            </ul>
+            <ul class="nav navbar-nav ml-auto">
+                <div class="d-none d-lg-block">
+                
+            </div>
+                <!-- navbar_plugin_output -->
+                <li class="nav-item">
+                
+                </li>
+                <!-- user_menu -->
+                <li class="nav-item d-flex align-items-center">
+                    <div class="usermenu"><span class="login">You are not logged in. (<a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/login/index.php">Log in</a>)</span></div>
+                </li>
+            </ul>
+            <!-- search_box -->
+    </nav>
+    
+
+    <div id="page" class="container-fluid">
+        <header id="page-header" class="row">
+    <div class="col-12 pt-3 pb-3">
+        <div class="card ">
+            <div class="card-body ">
+                <div class="d-flex">
+                    <div class="mr-auto">
+                        <div class="page-context-header"><div class="page-header-headings"><h1>FRANCISCO DE GOYA</h1></div></div>
+                    </div>
+
+                </div>
+                <div class="d-flex flex-wrap">
+                    <div id="page-navbar">
+                        <nav role="navigation" aria-label="Navigation bar">
+    <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/"  >Home</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php"  >Courses</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php?categoryid=14" aria-current="page" >Informática</a>
+                </li>
+    </ol>
+</nav>
+                    </div>
+                    <div class="ml-auto d-flex">
+                        
+                    </div>
+                    <div id="course-header">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+        <div id="page-content" class="row pb-3">
+            <div id="region-main-box" class="col-12">
+                <section id="region-main" >
+
+                    <span class="notifications" id="user-notifications"></span>
+                    <div role="main"><span id="maincontent"></span><span></span><div class="categorypicker"><div class="singleselect d-inline-block">
+    <form method="get" action="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php" class="form-inline" id="switchcategory">
+            <label for="single_select5d7f39a7608261">
+                Course categories:
+            </label>
+        <select  id="single_select5d7f39a7608261" class="custom-select singleselect" name="categoryid"
+                 >
+                    <option  value="15" >Automoción</option>
+                    <option  value="21" >Automoción / Ciclo de Grado Medio de Electromecánica de Vehículos</option>
+                    <option  value="22" >Automoción / Ciclo de Grado Medio de Electromecánica de Vehículos / 1º Electromecánica de Vehículos</option>
+                    <option  value="23" >Automoción / Ciclo de Grado Medio de Electromecánica de Vehículos / 2º Electromecánica de Vehículos</option>
+                    <option  value="24" >Automoción / Formación Profesional Básica de Mantenimiento de Vehículos</option>
+                    <option  value="25" >Automoción / Formación Profesional Básica de Mantenimiento de Vehículos / 1º Formación Profesional Básica de Mantenimiento de Vehículos</option>
+                    <option  value="26" >Automoción / Formación Profesional Básica de Mantenimiento de Vehículos / 2º de Formación Profesional Básica de Mantenimiento de Vehículos</option>
+                    <option  value="28" >Biología y Geología</option>
+                    <option  value="40" >Filosofía</option>
+                    <option  value="31" >Física y Química</option>
+                    <option  value="34" >FOL y Economía</option>
+                    <option  value="29" >FP Básica</option>
+                    <option  value="16" >Geografía e Historia</option>
+                    <option  value="33" >Imagen personal</option>
+                    <option  value="14" selected>Informática</option>
+                    <option  value="37" >Informática / ASIR</option>
+                    <option  value="38" >Informática / DAM</option>
+                    <option  value="36" >Inglés</option>
+                    <option  value="27" >Jefatura de estudios</option>
+                    <option  value="30" >Lengua castellana y literatura</option>
+                    <option  value="35" >Música</option>
+                    <option  value="39" >Orientación</option>
+                    <option  value="32" >Tecnología</option>
+        </select>
+        <noscript>
+            <input type="submit" class="btn btn-secondary" value="Go">
+        </noscript>
+    </form>
+</div></div><div class="box generalbox info py-3"><div class="no-overflow"><p>Informática</p></div></div><form action="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/search.php" id="coursesearch" method="get" class="form-inline">
+    <fieldset class="coursesearchbox invisiblefieldset">
+        <label for="coursesearchbox">Search courses</label>
+        <input id="coursesearchbox" name="search" type="text" size="30" value="" class="form-control">
+        <button class="btn btn-secondary" type="submit">Go</button>
+            <a class="btn btn-link p-0" role="button"
+                data-container="body" data-toggle="popover"
+                data-placement="right" data-content="&lt;div class=&quot;no-overflow&quot;&gt;&lt;p&gt;You can search for multiple words at once and can refine your search as follows:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;word - find any match of this word within the text.&lt;/li&gt;
+&lt;li&gt;+word - only exact matching words will be found.&lt;/li&gt;
+&lt;li&gt;-word - don&#039;t include results containing this word.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt; "
+                data-html="true" tabindex="0" data-trigger="focus">
+              <i class="icon fa fa-question-circle text-info fa-fw "  title="Help with Search courses" aria-label="Help with Search courses"></i>
+            </a>
+    </fieldset>
+</form><div class="course_category_tree clearfix "><div class="collapsible-actions"><a class="collapseexpand" href="#">Expand all</a></div><div class="content"><div class="subcategories"><div class="category notloaded with_children collapsed" data-categoryid="37" data-depth="1" data-showcourses="15" data-type="0"><div class="info"><h3 class="categoryname"><a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php?categoryid=37">ASIR</a></h3></div><div class="content"></div></div><div class="category notloaded with_children collapsed" data-categoryid="38" data-depth="1" data-showcourses="15" data-type="0"><div class="info"><h3 class="categoryname"><a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php?categoryid=38">DAM</a></h3></div><div class="content"></div></div></div><div class="courses category-browse category-browse-14"><div class="coursebox clearfix odd first collapsed" data-courseid="191" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=191">TUTORÍAS FP INFORMÁTICA</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=191"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i></div></div><div class="content"></div></div><div class="coursebox clearfix even collapsed" data-courseid="184" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=184"> TICO 2019-2020</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=184"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i></div></div><div class="content"></div></div><div class="coursebox clearfix odd collapsed" data-courseid="167" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=167">Administración de sistemas operativos</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=167"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-key fa-fw "  title="Guest access requires password" aria-label="Guest access requires password"></i><i class="icon fa fa-sign-in fa-fw "  title="Self enrolment" aria-label="Self enrolment"></i></div></div><div class="content"></div></div><div class="coursebox clearfix even collapsed" data-courseid="166" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=166">EIE</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=166"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i><i class="icon fa fa-sign-in fa-fw "  title="Self enrolment" aria-label="Self enrolment"></i></div></div><div class="content"></div></div><div class="coursebox clearfix odd collapsed" data-courseid="165" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=165">FOL</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=165"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i></div></div><div class="content"></div></div><div class="coursebox clearfix even collapsed" data-courseid="164" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=164">Proyectos final de ciclo</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=164"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-key fa-fw "  title="Self enrolment" aria-label="Self enrolment"></i></div></div><div class="content"></div></div><div class="coursebox clearfix odd collapsed" data-courseid="163" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=163">Departamento</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=163"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div></div><div class="content"></div></div><div class="coursebox clearfix even collapsed" data-courseid="158" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=158">Python</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=158"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i></div></div><div class="content"></div></div><div class="coursebox clearfix odd collapsed" data-courseid="80" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=80">Bases de datos 1º DAM y 1º ASIR</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=80"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i><i class="icon fa fa-key fa-fw "  title="Self enrolment" aria-label="Self enrolment"></i></div></div><div class="content"></div></div><div class="coursebox clearfix even collapsed" data-courseid="78" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=78">Lenguajes de Marcas</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=78"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-key fa-fw "  title="Self enrolment" aria-label="Self enrolment"></i></div></div><div class="content"></div></div><div class="coursebox clearfix odd collapsed" data-courseid="153" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=153">TICO 1º Bachillerato</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=153"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i></div></div><div class="content"></div></div><div class="coursebox clearfix even collapsed" data-courseid="157" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=157">TICO 2º Bachillerato</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=157"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-key fa-fw "  title="Self enrolment" aria-label="Self enrolment"></i></div></div><div class="content"></div></div><div class="coursebox clearfix odd collapsed" data-courseid="123" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=123">TICO 2018-19</a></div><div class="moreinfo"><a title="Summary" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/info.php?id=123"><i class="icon fa fa-info fa-fw "  title="Summary" aria-label="Summary"></i></a></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i><i class="icon fa fa-sign-in fa-fw "  title="Self enrolment" aria-label="Self enrolment"></i></div></div><div class="content"></div></div><div class="coursebox clearfix even last collapsed" data-courseid="116" data-type="1"><div class="info"><div class="coursename"><a class="" href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/view.php?id=116">TICO de primero de bachillerato C.Sociales</a></div><div class="moreinfo"></div><div class="enrolmenticons"><i class="icon fa fa-unlock-alt fa-fw "  title="Guest access" aria-label="Guest access"></i><i class="icon fa fa-key fa-fw "  title="Self enrolment" aria-label="Self enrolment"></i></div></div><div class="content"></div></div></div></div></div><div class="buttons"></div></div>
+                    
+                    
+
+                </section>
+            </div>
+        </div>
+    </div>
+    
+    <div id="nav-drawer" data-region="drawer" class="d-print-none moodle-has-zindex closed" aria-hidden="true" tabindex="-1">
+        <nav class="list-group">
+            <a class="list-group-item list-group-item-action " href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/" data-key="home" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="1" data-nodetype="1" data-collapse="0" data-forceopen="1" data-isactive="0" data-hidden="0" data-preceedwithhr="0" >
+                <div class="m-l-0">
+                    <div class="media">
+                        <span class="media-left">
+                            <i class="icon fa fa-home fa-fw " aria-hidden="true"  ></i>
+                        </span>
+                        <span class="media-body ">Home</span>
+                    </div>
+                </div>
+            </a>
+        </nav>
+    </div>
+    <footer id="page-footer" class="py-3 bg-dark text-light">
+        <div class="container">
+            <div id="course-footer"></div>
+    
+    
+            <div class="logininfo">You are not logged in. (<a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/login/index.php">Log in</a>)</div>
+            <div class="tool_usertours-resettourcontainer"></div>
+            <div class="homelink"><a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/">Home</a></div>
+            <nav class="nav navbar-nav d-md-none">
+                    <ul class="list-unstyled pt-3">
+                                        <li><a href="#" title="Language">English ‎(en)‎</a></li>
+                                    <li>
+                                        <ul class="list-unstyled ml-3">
+                                                            <li><a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php?categoryid=14&amp;lang=en" title="English ‎(en)‎">English ‎(en)‎</a></li>
+                                                            <li><a href="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php?categoryid=14&amp;lang=es" title="Español - Internacional ‎(es)‎">Español - Internacional ‎(es)‎</a></li>
+                                        </ul>
+                                    </li>
+                    </ul>
+            </nav>
+            
+            <script type="text/javascript">
+//<![CDATA[
+var require = {
+    baseUrl : 'https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/requirejs.php/1564658891/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/javascript.php/1564658891/lib/jquery/jquery-3.2.1.min',
+        jqueryui: 'https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/javascript.php/1564658891/lib/jquery/ui-1.12.1/jquery-ui.min',
+        jqueryprivate: 'https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/javascript.php/1564658891/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script type="text/javascript" src="https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/javascript.php/1564658891/lib/requirejs/require.min.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+require(['core/first'], function() {
+;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp(function(videojs) {
+        videojs.options.flash.swf = "https://aulavirtual33.educa.madrid.org/ies.goya.madrid/media/player/videojs/videojs/video-js.swf";
+videojs.addLanguage("en",{
+ "Audio Player": "Audio Player",
+ "Video Player": "Video Player",
+ "Play": "Play",
+ "Pause": "Pause",
+ "Replay": "Replay",
+ "Current Time": "Current Time",
+ "Duration Time": "Duration Time",
+ "Remaining Time": "Remaining Time",
+ "Stream Type": "Stream Type",
+ "LIVE": "LIVE",
+ "Loaded": "Loaded",
+ "Progress": "Progress",
+ "Progress Bar": "Progress Bar",
+ "progress bar timing: currentTime={1} duration={2}": "{1} of {2}",
+ "Fullscreen": "Fullscreen",
+ "Non-Fullscreen": "Non-Fullscreen",
+ "Mute": "Mute",
+ "Unmute": "Unmute",
+ "Playback Rate": "Playback Rate",
+ "Subtitles": "Subtitles",
+ "subtitles off": "subtitles off",
+ "Captions": "Captions",
+ "captions off": "captions off",
+ "Chapters": "Chapters",
+ "Descriptions": "Descriptions",
+ "descriptions off": "descriptions off",
+ "Audio Track": "Audio Track",
+ "Volume Level": "Volume Level",
+ "You aborted the media playback": "You aborted the media playback",
+ "A network error caused the media download to fail part-way.": "A network error caused the media download to fail part-way.",
+ "The media could not be loaded, either because the server or network failed or because the format is not supported.": "The media could not be loaded, either because the server or network failed or because the format is not supported.",
+ "The media playback was aborted due to a corruption problem or because the media used features your browser did not support.": "The media playback was aborted due to a corruption problem or because the media used features your browser did not support.",
+ "No compatible source was found for this media.": "No compatible source was found for this media.",
+ "The media is encrypted and we do not have the keys to decrypt it.": "The media is encrypted and we do not have the keys to decrypt it.",
+ "Play Video": "Play Video",
+ "Close": "Close",
+ "Close Modal Dialog": "Close Modal Dialog",
+ "Modal Window": "Modal Window",
+ "This is a modal window": "This is a modal window",
+ "This modal can be closed by pressing the Escape key or activating the close button.": "This modal can be closed by pressing the Escape key or activating the close button.",
+ ", opens captions settings dialog": ", opens captions settings dialog",
+ ", opens subtitles settings dialog": ", opens subtitles settings dialog",
+ ", opens descriptions settings dialog": ", opens descriptions settings dialog",
+ ", selected": ", selected",
+ "captions settings": "captions settings",
+ "subtitles settings": "subititles settings",
+ "descriptions settings": "descriptions settings",
+ "Text": "Text",
+ "White": "White",
+ "Black": "Black",
+ "Red": "Red",
+ "Green": "Green",
+ "Blue": "Blue",
+ "Yellow": "Yellow",
+ "Magenta": "Magenta",
+ "Cyan": "Cyan",
+ "Background": "Background",
+ "Window": "Window",
+ "Transparent": "Transparent",
+ "Semi-Transparent": "Semi-Transparent",
+ "Opaque": "Opaque",
+ "Font Size": "Font Size",
+ "Text Edge Style": "Text Edge Style",
+ "None": "None",
+ "Raised": "Raised",
+ "Depressed": "Depressed",
+ "Uniform": "Uniform",
+ "Dropshadow": "Dropshadow",
+ "Font Family": "Font Family",
+ "Proportional Sans-Serif": "Proportional Sans-Serif",
+ "Monospace Sans-Serif": "Monospace Sans-Serif",
+ "Proportional Serif": "Proportional Serif",
+ "Monospace Serif": "Monospace Serif",
+ "Casual": "Casual",
+ "Script": "Script",
+ "Small Caps": "Small Caps",
+ "Reset": "Reset",
+ "restore all settings to the default values": "restore all settings to the default values",
+ "Done": "Done",
+ "Caption Settings Dialog": "Caption Settings Dialog",
+ "Beginning of dialog window. Escape will cancel and close the window.": "Beginning of dialog window. Escape will cancel and close the window.",
+ "End of dialog window.": "End of dialog window."
+});
+
+    });
+});;
+
+require(['jquery'], function($) {
+    $('#single_select5d7f39a7608261').change(function() {
+        var ignore = $(this).find(':selected').attr('data-ignore');
+        if (typeof ignore === typeof undefined) {
+            $('#switchcategory').submit();
+        }
+    });
+});
+;
+
+require(['jquery'], function($) {
+    $('#single_select5d7f39a7608264').change(function() {
+        var ignore = $(this).find(':selected').attr('data-ignore');
+        if (typeof ignore === typeof undefined) {
+            $('#single_select_f5d7f39a7608263').submit();
+        }
+    });
+});
+;
+
+require(['jquery'], function($) {
+    $('#single_select5d7f39a7608267').change(function() {
+        var ignore = $(this).find(':selected').attr('data-ignore');
+        if (typeof ignore === typeof undefined) {
+            $('#single_select_f5d7f39a7608266').submit();
+        }
+    });
+});
+;
+
+require(['theme_boost/loader']);
+require(['theme_boost/drawer'], function(mod) {
+    mod.init();
+});
+;
+require(["core/notification"], function(amd) { amd.init(1504, []); });;
+require(["core/log"], function(amd) { amd.setConfig({"level":"warn"}); });;
+require(["core/page_global"], function(amd) { amd.init(); });
+});
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","yes":"Yes","no":"No","collapseall":"Collapse all","expandall":"Expand all","cancel":"Cancel","confirm":"Confirm","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} alias\/shortcut files that use this file as their source","select":"Select"},"admin":{"confirmdeletecomments":"You are about to delete comments, are you sure?","confirmation":"Confirmation"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {Y.use("moodle-filter_mathjaxloader-loader",function() {M.filter_mathjaxloader.configure({"mathjaxconfig":"\nMathJax.Hub.Config({\n    config: [\"Accessible.js\", \"Safe.js\"],\n    errorSettings: { message: [\"!\"] },\n    skipStartupTypeset: true,\n    messageStyle: \"none\"\n});\n","lang":"en"});
+});
+Y.use("moodle-course-categoryexpander",function() {Y.Moodle.course.categoryexpander.init();
+});
+M.util.help_popups.setup(Y);
+ M.util.js_pending('random5d7f39a7608268'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random5d7f39a7608268'); });
+})();
+//]]>
+</script>
+
+        </div>
+    </footer></div>
+
+</body>
+</html>$�g��           ]9v@΢#       V    :https://aulavirtual33.educa.madrid.org/ies.goya.madrid/course/index.php?categoryid=14 strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 16 Sep 2019 07:28:39 GMT
+Server: Apache
+X-Powered-By: PHP/7.0.27
+Cache-Control: private, pre-check=0, post-check=0, max-age=0, no-transform
+Pragma: no-cache
+Content-Language: en
+Content-Script-Type: text/javascript
+Content-Style-Type: text/css
+X-UA-Compatible: IE=edge
+Accept-Ranges: none
+X-Frame-Options: sameorigin
+Content-Type: text/html; charset=utf-8
+ original-response-headers Date: Mon, 16 Sep 2019 07:28:39 GMT
+Server: Apache
+X-Powered-By: PHP/7.0.27
+Expires: 
+Cache-Control: private, pre-check=0, post-check=0, max-age=0, no-transform
+Pragma: no-cache
+Content-Language: en
+Content-Script-Type: text/javascript
+Content-Style-Type: text/css
+X-UA-Compatible: IE=edge
+Accept-Ranges: none
+X-Frame-Options: sameorigin
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+ uncompressed-len 0 predictor::resource-count 11 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/styles.php/boost/1564658891_1564418821/all 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/javascript.php/1564658891/lib/javascript-static.js 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/javascript.php/1564658891/lib/requirejs/require.min.js 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/yui_combo.php?m/1564658891/core/event/event-min.js&m/1564658891/filter_mathjaxloader/loader/loader-min.js 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/image.php/boost/core/1564658891/i/course 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/requirejs.php/1564658891/core/first.js 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/yui_combo.php?m/1564658891/course/categoryexpander/categoryexpander-min.js 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/lib/javascript.php/1564658891/lib/jquery/jquery-3.2.1.min.js 1,1,0,4096 predictor::https://aulavirtual33.educa.madrid.org/ies.goya.madrid/theme/yui_combo.php?3.17.2/event-mousewheel/event-mousewheel-min.js&3.17.2/event-resize/event-resize-min.js&3.17.2/event-hover/event-hover-min.js&3.17.2/event-touch/event-touch-min.js&3.17.2/event-move/event-move-min.js&3.17.2/event-flick/event-flick-min.js&3.17.2/event-valuechange/event-valuechange-min.js&3.17.2/event-tap/event-tap-min.js 1,1,0,4096   ��
